@@ -41,3 +41,5 @@ CREATE TABLE Shipment (
     delivery_time_days INT,
 
     cost DECIMAL(10,2)
+
+);

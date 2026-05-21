@@ -1,6 +1,16 @@
 ## Project-1-Logistics
 
-This SQL mini-project analyzes shipment and carrier data for a mock logistics company. The project focuses on querying relational databases to identify delivery trends, customer contact gaps, and carrier performance metrics.
+This SQL mini-project analyzes shipment and carrier data for a mock logistics company. The project focuses on querying relational databases to identify delivery trends, customer contact gaps, and carrier performance metrics. I will document my querying process in answering these questions:
+
+  1. Calculate the average deliver time per carrier, ordered from slowest to fastest. 
+
+  2. Generate a list of distinct delivery statuses used across all shipments.
+
+  3. Create a list of customers showing their full names and label missing emails as 'email needed'.
+
+  4. Generate a list of distinct delivery statues used across all shipments.  
+
+  5. List all shipments with customer and carrier names, including shipments for customers who don't have an email address on file.
 
 ## Skills Practiced
 

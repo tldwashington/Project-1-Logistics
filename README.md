@@ -27,7 +27,7 @@ This SQL mini-project analyzes shipment and carrier data for a mock logistics co
 - `sample_data.sql` → mock logistics dataset
 - `queries.sql` → completed SQL analysis queries
 - `notes.md` → debugging notes and learning reflections
-- `screenshots/` → query outputs and workflow documentation
+- `screenshots/` → query outputs and workflow error messages
 
 ## Learning Context
 

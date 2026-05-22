@@ -8,9 +8,7 @@ This SQL mini-project analyzes shipment and carrier data for a mock logistics co
 
   3. Create a list of customers showing their full names and label missing emails as 'email needed'.
 
-  4. Generate a list of distinct delivery statues used across all shipments.  
-
-  5. List all shipments with customer and carrier names, including shipments for customers who don't have an email address on file.
+  4. List all shipments with customer and carrier names, including shipments for customers who don't have an email address on file.
 
 ## Skills Practiced
 

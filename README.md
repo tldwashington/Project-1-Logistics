@@ -1,4 +1,4 @@
-## Project-1-Logistics
+## Project 1: Logistics – Shipment Tracking & Carrier Insights
 
 Scenario:
 
